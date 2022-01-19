@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 50%;
+    margin: auto;
+}
+
+p {
+    margin: 20px 0;
+}
+
+h2, h3 {
+    margin-top: 80px;
+}
+
+ul {
+    list-style: lower-alpha;
+}
+
+li {
+    margin: 20px 15px;
+    padding-left: 10px;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
